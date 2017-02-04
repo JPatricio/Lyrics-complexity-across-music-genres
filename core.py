@@ -1,5 +1,5 @@
 
-apikey = ''
+apikey = ''  # Insert Musixmatch API key here
 API_url = "http://api.musixmatch.com/ws/1.1/"
 
 
